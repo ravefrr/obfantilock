@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://github.com/ravefrr/antilock/raw/main/antilock.lua"), true))()
